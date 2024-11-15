@@ -17,7 +17,9 @@ As you guessed correctly, this telegram bot does the job of analyzing Bitcoin se
 * Step 8: Make User-friendly UI and use buttons
 
 **Notice:** The content is taken (crawled) from a sample website and has a low operational aspect because the news update routine is slow.
+
 **Notice:** The rights to use this information are reserved according to the Apache License.
+
 **Notice:** SentiBit is not yet publicly released and available for public use.
 
 ## Refrences
